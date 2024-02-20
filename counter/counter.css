@@ -1,0 +1,29 @@
+#count{
+    height:300px;
+    width:300px;
+    display: block;
+    margin-left: 370px;
+    margin-top: 50px;
+    font-size: 250px;
+    margin-bottom: -40px;
+  }
+  #increase, #decrease, #reset{
+    margin-left: 100px;
+    font-weight: bold;
+  }
+  #heading{
+    font-size: xx-large;
+    margin-left: 380px;
+  }
+  #increase{
+    background-color: lightgreen;
+  }
+  #decrease{
+    background-color: tomato;
+  
+  }
+  #reset{
+    background-color:blueviolet ;
+    color: rgb(206, 197, 197);
+
+  }
