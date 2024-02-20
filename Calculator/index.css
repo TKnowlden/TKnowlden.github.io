@@ -1,0 +1,48 @@
+#mainDiv{
+    background-color:black;
+    height: 750px;
+    width: 500px;
+    margin: auto;
+    flex-wrap: wrap;
+    border-radius: 25px;
+}
+#screen{
+    background-color: azure;
+    height: 100px;
+    width: 90%;
+    margin-left: 22px;
+    position: relative;
+    top:25px;
+    font-size: 4rem;
+    overflow: hidden;
+    
+ }
+button{
+    left:5px;
+    position: relative;
+    height:100px;
+    width: 100px;
+    margin:10px;
+    top:30px;
+    border-radius: 25%;
+    font-size: x-large;
+    cursor:pointer;
+ }
+button:active{
+    background-color: rgb(255, 255, 255);
+ }
+button:hover{
+    background-color: rgba(255, 255, 255, 0.897);
+ }
+#operator{
+    background-color: coral;
+}
+#operator:hover{
+    background-color: rgb(245, 180, 156);
+}
+#operator:click{
+    background-color: rgb(245, 180, 156);
+}
+button{
+    background-color: darkgrey;
+}
